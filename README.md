@@ -4,11 +4,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LMGXENON/leet/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/LMGXENON/leet/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/LMGXENON/leet/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LMGXENON/leet/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/LMGXENON/leet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/LMGXENON/leet/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -22,6 +24,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/LMGXENON/leet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/LMGXENON/leet/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
