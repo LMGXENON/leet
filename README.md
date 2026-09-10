@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LMGXENON/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/LMGXENON/leet/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/LMGXENON/leet/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/LMGXENON/leet/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/LMGXENON/leet/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/LMGXENON/leet/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -22,6 +23,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/LMGXENON/leet/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/LMGXENON/leet/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/LMGXENON/leet/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
