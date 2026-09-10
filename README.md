@@ -5,6 +5,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/LMGXENON/leet/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/LMGXENON/leet/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/LMGXENON/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/LMGXENON/leet/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/LMGXENON/leet/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -39,6 +40,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/LMGXENON/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/LMGXENON/leet/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
