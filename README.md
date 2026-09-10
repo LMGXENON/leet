@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/LMGXENON/leet/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/LMGXENON/leet/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/LMGXENON/leet/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/LMGXENON/leet/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/LMGXENON/leet/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/LMGXENON/leet/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -40,6 +41,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/LMGXENON/leet/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/LMGXENON/leet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/LMGXENON/leet/tree/master/0242-valid-anagram) |
 ## Prefix Sum
@@ -52,6 +54,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LMGXENON/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/LMGXENON/leet/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LMGXENON/leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/LMGXENON/leet/tree/master/0088-merge-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/LMGXENON/leet/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
