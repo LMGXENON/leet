@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/LMGXENON/leet/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/LMGXENON/leet/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/LMGXENON/leet/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/LMGXENON/leet/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/LMGXENON/leet/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/LMGXENON/leet/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -112,6 +113,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/LMGXENON/leet/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/LMGXENON/leet/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/LMGXENON/leet/tree/master/0119-pascals-triangle-ii) |
 ## Memoization
 |  |
 | ------- |
