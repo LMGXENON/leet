@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LMGXENON/leet/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/LMGXENON/leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/LMGXENON/leet/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LMGXENON/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/LMGXENON/leet/tree/master/0027-remove-element) |
@@ -108,6 +109,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/LMGXENON/leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/LMGXENON/leet/tree/master/0035-search-insert-position) |
 ## Bit Manipulation
 |  |
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LMGXENON/leet/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/LMGXENON/leet/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
