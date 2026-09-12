@@ -1,9 +1,8 @@
 class Solution:
     def isPalindrome(self, x: int) -> bool:
-        s = str(x)
-        reverse = s[::-1]
-        
-        if s == reverse:
+        reverse = str(x)[::-1]
+
+        if str(x) == reverse:
             return True
         else:
             return False
