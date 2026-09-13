@@ -32,6 +32,7 @@
 | [0007-reverse-integer](https://github.com/LMGXENON/leet/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/LMGXENON/leet/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/LMGXENON/leet/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/LMGXENON/leet/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/LMGXENON/leet/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/LMGXENON/leet/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/LMGXENON/leet/tree/master/0070-climbing-stairs) |
@@ -117,6 +118,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/LMGXENON/leet/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/LMGXENON/leet/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/LMGXENON/leet/tree/master/0136-single-number) |
 ## Simulation
