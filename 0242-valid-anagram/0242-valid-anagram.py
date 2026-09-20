@@ -1,7 +1,6 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        if len(s) != len(t):
-            return False
+        
 
         sortedS = sorted(list(s))
         sortedT = sorted(list(t))
