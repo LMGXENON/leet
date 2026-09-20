@@ -3,8 +3,11 @@ class Solution:
         if len(s) != len(t):
             return False
 
-        elif sorted(s) == sorted(t):
-            return True     
+        sortedS = sorted(list(s))
+        sortedT = sorted(list(t))
 
+        if sortedS == sortedT:
+            return True
         else:
             return False
+        
