@@ -3,10 +3,9 @@ class Solution:
         hashMap = {}
 
         for i, num in enumerate(nums):
-            diff = target - num
-            if diff in hashMap:
-                return [hashMap[diff], i]
-            
+            difference = target - num
+
+            if difference in hashMap:
+                return [hashMap[difference], i]
+
             hashMap[num] = i
-            
-           
