@@ -36,6 +36,7 @@
 | [0066-plus-one](https://github.com/LMGXENON/leet/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/LMGXENON/leet/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/LMGXENON/leet/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/LMGXENON/leet/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0067-add-binary](https://github.com/LMGXENON/leet/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/LMGXENON/leet/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/LMGXENON/leet/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/LMGXENON/leet/tree/master/0412-fizz-buzz) |
 | [1768-merge-strings-alternately](https://github.com/LMGXENON/leet/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/LMGXENON/leet/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/LMGXENON/leet/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
