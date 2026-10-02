@@ -35,6 +35,7 @@
 | [0029-divide-two-integers](https://github.com/LMGXENON/leet/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/LMGXENON/leet/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/LMGXENON/leet/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/LMGXENON/leet/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/LMGXENON/leet/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/LMGXENON/leet/tree/master/0412-fizz-buzz) |
 ## String
@@ -117,6 +118,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/LMGXENON/leet/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/LMGXENON/leet/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/LMGXENON/leet/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -171,4 +173,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LMGXENON/leet/tree/master/0005-longest-palindromic-substring) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/LMGXENON/leet/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
