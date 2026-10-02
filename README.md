@@ -16,6 +16,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LMGXENON/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/LMGXENON/leet/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/LMGXENON/leet/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/LMGXENON/leet/tree/master/0219-contains-duplicate-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/LMGXENON/leet/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/LMGXENON/leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/LMGXENON/leet/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/LMGXENON/leet/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/LMGXENON/leet/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/LMGXENON/leet/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -165,6 +167,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LMGXENON/leet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/LMGXENON/leet/tree/master/0219-contains-duplicate-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
