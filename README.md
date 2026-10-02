@@ -18,6 +18,7 @@
 | [0217-contains-duplicate](https://github.com/LMGXENON/leet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/LMGXENON/leet/tree/master/0219-contains-duplicate-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/LMGXENON/leet/tree/master/1480-running-sum-of-1d-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/LMGXENON/leet/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0217-contains-duplicate](https://github.com/LMGXENON/leet/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/LMGXENON/leet/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/LMGXENON/leet/tree/master/0242-valid-anagram) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/LMGXENON/leet/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Math
 |  |
 | ------- |
@@ -180,4 +182,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/LMGXENON/leet/tree/master/0069-sqrtx) |
+## Matrix
+|  |
+| ------- |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/LMGXENON/leet/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 <!---LeetCode Topics End-->
